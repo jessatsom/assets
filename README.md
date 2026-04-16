@@ -1,0 +1,2 @@
+# assets
+for image hosting
